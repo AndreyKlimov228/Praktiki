@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wg/9GTd2ko6fkCF1H4eLgKW+GcdUjcw0Let15lfy+rHQ4cLk1OYGgkIUJ6fwSbTzOUFCcHwb85ePspd8usMgLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\123\\PR12_Klimov\\PR12_Klimov\\PR12_Klimov.iOS\\PR12_Klimov.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

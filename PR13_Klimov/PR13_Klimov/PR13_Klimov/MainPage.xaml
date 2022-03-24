@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PR13_Klimov.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="label1" Text="Жми" HorizontalOptions="Center" FontSize="Medium" />
+            <Button Clicked="OnButtonClicked" Text="Вычислить" FontSize="Medium"/>
+            <Entry x:Name="keyboard" Placeholder="Введите число" Keyboard="Numeric" TextColor="Black"/>
+            <Label x:Name="label2" Text="" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

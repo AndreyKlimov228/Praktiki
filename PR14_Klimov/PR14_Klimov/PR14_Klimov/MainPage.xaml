@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PR14_Klimov.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="label1" FontSize="Medium" HorizontalOptions="Center"/>
+            <StackLayout Orientation="Horizontal">
+                <Button
+            x:Name="buttonTimer"
+            Clicked="buttonStart_Cliced"
+            Text="Запуск" HorizontalOptions="Center" FontSize="Medium"/>
+                </StackLayout>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
